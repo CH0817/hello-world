@@ -8,7 +8,7 @@ class HelloWorldApplicationTest {
 
     @Test
     public void main() {
-        System.out.println("test9");
+        System.out.println("test10");
     }
 
 }
